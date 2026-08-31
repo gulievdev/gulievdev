@@ -39,4 +39,4 @@
 
 <br />
 
-<img align="center" width="35%" src="https://count.getloli.com/get/@:gulievdev?theme=rule34">
+<img align="center" width="50%" src="https://count.getloli.com/get/@:gulievdev?theme=booru-r6gdrawfriends">
